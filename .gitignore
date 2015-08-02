@@ -4,6 +4,7 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+<<<<<<< HEAD
 
 # =========================
 # Operating System Files
@@ -51,3 +52,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+>>>>>>> dc365eadd524390cc22d79a65540ce05864ecdee
