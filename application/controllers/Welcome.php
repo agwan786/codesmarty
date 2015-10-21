@@ -2,7 +2,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends MY_CONTROLLER {
-
 	/**
 	 * Index Page for this controller.
 	 *
@@ -27,5 +26,6 @@ class Welcome extends MY_CONTROLLER {
         }
 
         $this->smartyci->display( 'login.tpl' );
+		//$this->load->view('welcome_message');
 	}
 }
